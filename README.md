@@ -1,5 +1,4 @@
 # Text-CNN
 
-a demo model for text classification
-build with tensorflow/tensorlayer
+A demo for text classification which is build with tensorflow/tensorlayer
 
